@@ -1,0 +1,8 @@
+scapy 
+pandas 
+joblib 
+colorama 
+rich 
+matplotlib 
+seaborn 
+scikit-learn 

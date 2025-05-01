@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+*.log
+outputs/*.log
+outputs/*.pkl
+outputs/*.csv
+.env
+.DS_Store
